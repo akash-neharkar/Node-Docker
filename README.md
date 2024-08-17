@@ -7,6 +7,13 @@
 **ExpressJs with twilio** \
 **Docker** \
 
+## Steps to create a docker image
+**1)** Create a file named "Dockerfile" in the main project directory
+**2)** Add the commands in the Docker file
+**3)** Open terminal and Run: docker build -t [image name]:[version] .
+**Note:** Do not forget to add the dot in the above command as it is the location of the docker file.
+**4)** Then check if image is created using "docker images" command
+
 ## Steps to run: 
 **1)** Open the codespace and fire the terminal \
 **2)** Run: Docker images \

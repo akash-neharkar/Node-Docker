@@ -12,4 +12,4 @@
 **2)** Run: Docker images \
 **3)** Run: docker run -d -p 3000:3000 node-docker:1.0 \
 **4)** This will start the application on LocalHost 3000 port as mentioned in previous command. \
-**Note** You can choose any local host port to run the application. \
+**Note:** You can choose any local host port to run the application. \
